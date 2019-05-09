@@ -1,15 +1,16 @@
 library(extrafont)
 library(tidyverse)
 
-dd <- read.table(text=content(GET("https://gist.githubusercontent.com/MrFlick/c1183c911bc5398105d4/raw/715868fba2d0d17a61a8081de17c468bbc525ab1/elements.txt")), sep=",", header=TRUE)
+student_ratio <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-05-07/student_teacher_ratio.csv")
+unique(student_ratio$indicator)
 df1=read.table('elements.txt',
                header = T,sep=',',stringsAsFactors = F)
 
 df1$GroupName[113:118]='Others'
 
 
-
-dff1=dff%>%arrange(mean)
+dff1=dff%>%filter(indicator=='Primary Education')%>%arrange(mean)
+dff1=dff1[1:118,]
 
 dft=data.frame(
   Column=df1$Column,
@@ -39,7 +40,7 @@ ggplot(dft, aes(Column, -Row)) +
   geom_text( aes(label=substr(country,1,10)), nudge_y=-0.125,size=3)+
   labs(x='',y='',caption = '@r0mymendez',
        title = 'The periodic table of education',
-       subtitle = '\n Global Student to Teacher Ratios \n #TidyTuesday')+
+       subtitle = '\n Global Student to Teacher Ratios: Primary Education \n #TidyTuesday')+
   theme(plot.background = element_rect(fill='#2a2a2a')
         ,panel.background = element_rect(fill='#2a2a2a')
         ,axis.text.x = element_blank()
