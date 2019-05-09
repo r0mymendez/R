@@ -1,0 +1,119 @@
+"AtomicNumber","AtomicWeight","GroupNumber","GroupName","Period","Block","CASRegistryID","ElementName","ElementSymbol","DiscoveryDate","DiscovererName","Row","Column"
+1,1.00,5,"Non-metals","1","s-block","1333-74-0","Hydrogen","H","1766","Henry Cavendish",1,1
+2,0.00,4,"Noble gases",,,,"Helium","He",,,1,18
+3,0.00,0,"Alkali earth",,,,"Lithium","Li",,,2,1
+4,0.00,1,"Alkaline earth",,,,"Beryllium","Be",,,2,2
+5,0.00,3,"Metalloids",,,,"Boron","B",,,2,13
+6,0.00,5,"Non-metals",,,,"Carbon","C",,,2,14
+7,0.00,5,"Non-metals",,,,"Nitrogen","N",,,2,15
+8,0.00,5,"Non-metals",,,,"Oxygen","O",,,2,16
+9,0.00,2,"Halogens",,,,"Flourine","F",,,2,17
+10,0.00,4,"Noble gases",,,,"Neon","Ne",,,2,18
+11,0.00,0,"Alkali earth",,,,"Sodium","Na",,,3,1
+12,0.00,1,"Alkaline earth",,,,"Magnesium","Mg",,,3,2
+13,0.00,6,"Other metals",,,,"Aluminum","Al",,,3,13
+14,0.00,3,"Metalloids",,,,"Silicon","Si",,,3,14
+15,0.00,5,"Non-metals",,,,"Phosphorous","P",,,3,15
+16,0.00,5,"Non-metals",,,,"Sulfer","S",,,3,16
+17,0.00,2,"Halogens",,,,"Chlorine","Cl",,,3,17
+18,0.00,4,"Noble gases",,,,"Argon","Ar",,,3,18
+19,0.00,0,"Alkali earth",,,,"Potassium","K",,,4,1
+20,0.00,1,"Alkaline earth",,,,"Calcium","Ca",,,4,2
+21,0.00,8,"Transition metals",,,,"Scandium","Sc",,,4,3
+22,0.00,8,"Transition metals",,,,"Titanium","Ti",,,4,4
+23,0.00,8,"Transition metals",,,,"Vanadium","V",,,4,5
+24,0.00,8,"Transition metals",,,,"Chromium","Cr",,,4,6
+25,0.00,8,"Transition metals",,,,"Manganese","Mn",,,4,7
+26,0.00,8,"Transition metals",,,,"Iron","Fe",,,4,8
+27,0.00,8,"Transition metals",,,,"Cobalt","Co",,,4,9
+28,0.00,8,"Transition metals",,,,"Nickel","Ni",,,4,10
+29,0.00,8,"Transition metals",,,,"Copper","Cu",,,4,11
+30,0.00,8,"Transition metals",,,,"Zinc","Zn",,,4,12
+31,0.00,6,"Other metals",,,,"Gallium","Ga",,,4,13
+32,0.00,3,"Metalloids",,,,"Germanium","Ge",,,4,14
+33,0.00,3,"Metalloids",,,,"Arsenic","As",,,4,15
+34,0.00,5,"Non-metals",,,,"Selenium","Se",,,4,16
+35,0.00,2,"Halogens",,,,"Bromine","Br",,,4,17
+36,0.00,4,"Noble gases",,,,"Krypton","Kr",,,4,18
+37,0.00,0,"Alkali earth",,,,"Rubidium","Rb",,,5,1
+38,0.00,1,"Alkaline earth",,,,"Strontium","Sr",,,5,2
+39,0.00,8,"Transition metals",,,,"Yttrium","Y",,,5,3
+40,0.00,8,"Transition metals",,,,"Zirconium","Zr",,,5,4
+41,0.00,8,"Transition metals",,,,"Niobium","Nb",,,5,5
+42,0.00,8,"Transition metals",,,,"Molybdenum","Mo",,,5,6
+43,0.00,8,"Transition metals",,,,"Technetium","Tc",,,5,7
+44,0.00,8,"Transition metals",,,,"Ruthenium","Ru",,,5,8
+45,0.00,8,"Transition metals",,,,"Rhodium","Rh",,,5,9
+46,0.00,8,"Transition metals",,,,"Palladium","Pd",,,5,10
+47,0.00,8,"Transition metals",,,,"Silver","Ag",,,5,11
+48,0.00,8,"Transition metals",,,,"Cadmium","Cd",,,5,12
+49,0.00,6,"Other metals",,,,"Indium","In",,,5,13
+50,0.00,6,"Other metals",,,,"Tin","Sn",,,5,14
+51,0.00,3,"Metalloids",,,,"Antimony","Sb",,,5,15
+52,0.00,3,"Metalloids",,,,"Tellurium","Te",,,5,16
+53,0.00,2,"Halogens",,,,"Iodine","I",,,5,17
+54,0.00,4,"Noble gases",,,,"Xenon","Xe",,,5,18
+55,0.00,0,"Alkali earth",,,,"Cesium","Cs",,,6,1
+56,0.00,1,"Alkaline earth",,,,"Barium","Ba",,,6,2
+57,0.00,7,"Rare earth",,,,"Lanthanum","La",,,8,3
+58,0.00,7,"Rare earth",,,,"Cerium","Ce",,,8,4
+59,0.00,7,"Rare earth",,,,"Praseodymium","Pr",,,8,5
+60,0.00,7,"Rare earth",,,,"Neodymium","Nd",,,8,6
+61,0.00,7,"Rare earth",,,,"Promethium","Pm",,,8,7
+62,0.00,7,"Rare earth",,,,"Samarium","Sm",,,8,8
+63,0.00,7,"Rare earth",,,,"Europium","Eu",,,8,9
+64,0.00,7,"Rare earth",,,,"Gadolinium","Gd",,,8,10
+65,0.00,7,"Rare earth",,,,"Terbium","Tb",,,8,11
+66,0.00,7,"Rare earth",,,,"Dysprosium","Dy",,,8,12
+67,0.00,7,"Rare earth",,,,"Holmium","Ho",,,8,13
+68,0.00,7,"Rare earth",,,,"Erbium","Er",,,8,14
+69,0.00,7,"Rare earth",,,,"Thulium","Tm",,,8,15
+70,0.00,7,"Rare earth",,,,"Ytterbium","Yb",,,8,16
+71,0.00,7,"Rare earth",,,,"Lutetium","Lu",,,8,17
+72,0.00,8,"Transition metals",,,,"Hafnium","Hf",,,6,4
+73,0.00,8,"Transition metals",,,,"Tantalum","Ta",,,6,5
+74,0.00,8,"Transition metals",,,,"Tungsten","W",,,6,6
+75,0.00,8,"Transition metals",,,,"Rhenium","Re",,,6,7
+76,0.00,8,"Transition metals",,,,"Osmium","Os",,,6,8
+77,0.00,8,"Transition metals",,,,"Iridium","Ir",,,6,9
+78,0.00,8,"Transition metals",,,,"Platinum","Pt",,,6,10
+79,0.00,8,"Transition metals",,,,"Gold","Au",,,6,11
+80,0.00,8,"Transition metals",,,,"Mercury","Hg",,,6,12
+81,0.00,6,"Other metals",,,,"Thallium","Tl",,,6,13
+82,0.00,6,"Other metals",,,,"Lead","Pb",,,6,14
+83,0.00,6,"Other metals",,,,"Bismuth","Bi",,,6,15
+84,0.00,3,"Metalloids",,,,"Polonium","Po",,,6,16
+85,0.00,2,"Halogens",,,,"Astatine","At",,,6,17
+86,0.00,4,"Noble gases",,,,"Radon","Rn",,,6,18
+87,0.00,0,"Alkali earth",,,,"Francium","Fr",,,7,1
+88,0.00,1,"Alkaline earth",,,,"Radium","Ra",,,7,2
+89,0.00,7,"Rare earth",,,,"Actinium","Ac",,,9,3
+90,0.00,7,"Rare earth",,,,"Thorium","Th",,,9,4
+91,0.00,7,"Rare earth",,,,"Protactinium","Pa",,,9,5
+92,0.00,7,"Rare earth",,,,"Uranium","U",,,9,6
+93,0.00,7,"Rare earth",,,,"Neptunium","Np",,,9,7
+94,0.00,7,"Rare earth",,,,"Plutonium","Pu",,,9,8
+95,0.00,7,"Rare earth",,,,"Americium","Am",,,9,9
+96,0.00,7,"Rare earth",,,,"Curium","Cm",,,9,10
+97,0.00,7,"Rare earth",,,,"Berkelium","Bk",,,9,11
+98,0.00,7,"Rare earth",,,,"Californium","Cf",,,9,12
+99,0.00,7,"Rare earth",,,,"Einsteinium","Es",,,9,13
+100,0.00,7,"Rare earth",,,,"Fermium","Fm",,,9,14
+101,0.00,7,"Rare earth",,,,"Mendelevium","Md",,,9,15
+102,0.00,7,"Rare earth",,,,"Nobelium","No",,,9,16
+103,0.00,7,"Rare earth",,,,"Lawrencium","Lr",,,9,17
+104,0.00,8,"Transition metals",,,,"Unnilquadium","Rf",,,7,4
+105,0.00,8,"Transition metals",,,,"Unnilpentium","Db",,,7,5
+106,0.00,8,"Transition metals",,,,"Unnilhexium","Sg",,,7,6
+107,0.00,8,"Transition metals",,,,"Unnilseptium","Bh",,,7,7
+108,0.00,8,"Transition metals",,,,"Unniloctium","Hs",,,7,8
+109,0.00,8,"Transition metals",,,,"Unnilennium","Mt",,,7,9
+110,269.00,8,"Transition metals",,,,"Ununnilium","Uun",,,7,10
+111,0.00,8,"Transition metals",,,,"Unununium","Uuu",,,7,11
+112,0.00,8,"Transition metals",,,,"Ununbium","Uub",,,7,12
+113,0.00,9,"-UNKNOWN-",,,,"-UNKNOWN-","Uut",,,7,13
+114,0.00,3,"Metalloids",,,,"Ununquadium","Uuq",,,7,14
+115,0.00,9,"-UNKNOWN-",,,,"-UNKNOWN-","Uup",,,7,15
+116,0.00,3,"Metalloids",,,,"Ununhexium","Uuh",,,7,16
+117,0.00,9,"-UNKNOWN-",,,,"-UNKNOWN-","Uus",,,7,17
+118,0.00,4,"Noble gases",,,,"Ununoctium","Uuo",,,7,18
