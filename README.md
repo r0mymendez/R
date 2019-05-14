@@ -19,6 +19,8 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 2. [Gapminder](https://github.com/r0mymendez/R/blob/master/DatosDeMiercoles/20190410/20190423-gapminder.R). Packeges: Tidyverse, ggrepel y extrafont. 🌏🌏🌏
 
+3. [Comercio: importaciones y exportaciones](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190502) Packeges: Tidyverse, ggrepel y extrafont. 🌏🌏🌏
+
 3. [Parlamento](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190507). Packeges: Tidyverse, ggrepel, maps, emojifont y ggthemes 🌏🌏🌏🚺
 
 
