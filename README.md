@@ -15,6 +15,9 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 4. [Nobel Laureate Publications](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190514-NOBEL). Packages: TIdyverse, grid, ggpubr ,emojifont y ggrepel 🔬 🏆🏅
 
+5. [Global Plastic Waste](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190521-PlasticWaste). Packages: TIdyverse, grid, ggpubr ,emojifont,countrycode y ggridges 🌏♻🌏
+
+
 #### Datos de Miercoles
 1. [Datos de Miercoles: Mundiales 1930-2018](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190410). Packages: Tidyverse, emojifont y background image. ⚽🏆🙋
 
