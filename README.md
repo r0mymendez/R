@@ -17,7 +17,7 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 5. [Global Plastic Waste](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190521-PlasticWaste). Packages: TIdyverse, grid, ggpubr ,emojifont,countrycode y ggridges 🌏♻🌏
 
-6. [](https://github.com/r0mymendez/R/blob/master/TidyTuesday/20190528-wine/readme.md). Packages: TIdyverse, tidytext, ggpubr ,emojifont,packcircles y ggridges 🍇🍷🌏
+6. [Wine ratings](https://github.com/r0mymendez/R/blob/master/TidyTuesday/20190528-wine/readme.md). Packages: TIdyverse, tidytext, ggpubr ,emojifont,packcircles y ggridges 🍇🍷🌏
 
 
 #### Datos de Miercoles
