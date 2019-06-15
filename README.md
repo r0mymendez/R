@@ -32,3 +32,5 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 4. [Datos sobre Rankings Musicales - SPOTIFY](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190515). Packages: Tidyverse, ggrepel, emojifont y Rspotify 🎧🎤🎼
 
 5. [Datos de la OMS sobre tuberculosis](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190521).Packages: Tidyverse, ggrepel, countrycode, emojifont y ggpubr 🌏💉👶👦👧
+
+6. [Datos de vinos](https://github.com/r0mymendez/R/blob/master/DatosDeMiercoles/20190612/readme.md). Packages: TIdyverse, tidytext, ggpubr ,emojifont,packcircles y ggridges 🍇🍷🌏
