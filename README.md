@@ -21,7 +21,7 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 7. [Bird Counts](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190621-BirdCounts). Packages: TIdyverse, ggpubr  y ggrepel 🕊🕊
 
-8. [UFO Sightings around the world]() Packages: TIdyverse, ggpubr  y ggrepel 👽👽👽
+8. [UFO Sightings around the world](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190625-%F0%9F%91%BD) Packages: TIdyverse, ggpubr  y ggrepel 👽👽👽
 
 
 
