@@ -40,4 +40,4 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 6. [Datos de vinos](https://github.com/r0mymendez/R/blob/master/DatosDeMiercoles/20190612/readme.md). Packages: TIdyverse, tidytext, ggpubr ,emojifont,packcircles y ggridges 🍇🍷🌏
 
-7.[Capitulos de Rladies](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190625). Packages: TIdyverse, tidytext, ggpubr ,emojifont,packcircles y ggridges 👭💚😍
+7. [Capitulos de Rladies](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190625). Packages: TIdyverse, tidytext, ggpubr ,emojifont y ggridges 👭💚😍
