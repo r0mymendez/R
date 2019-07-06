@@ -21,9 +21,9 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 7. [Bird Counts](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190621-BirdCounts). Packages: TIdyverse, ggpubr  y ggrepel 🕊🕊
 
-8. [UFO Sightings around the world](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190625-%F0%9F%91%BD) Packages: TIdyverse, ggpubr  y ggrepel 👽👽👽
+8. [UFO Sightings around the world](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190625-%F0%9F%91%BD). Packages: TIdyverse, ggpubr  y ggrepel 👽👽👽
 
-
+9. [Media Franchise Powerhouses](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190701). Packages: TIdyverse 😍😍😍
 
 #### Datos de Miercoles
 1. [Datos de Miercoles: Mundiales 1930-2018](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190410). Packages: Tidyverse, emojifont y background image. ⚽🏆🙋
