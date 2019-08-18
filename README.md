@@ -25,6 +25,8 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 9. [Media Franchise Powerhouses](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190701). Packages: TIdyverse 😍😍😍
 
+10. [Roman Emperors](https://github.com/r0mymendez/R/blob/master/TidyTuesday/20190813-Roman%20Emperors/readme.md)  Packages: TIdyverse y grid  🇮🇹⚜🌏
+
 #### Datos de Miercoles
 1. [Datos de Miercoles: Mundiales 1930-2018](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190410). Packages: Tidyverse, emojifont y background image. ⚽🏆🙋
 
