@@ -47,6 +47,9 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 8. [Pokemon](https://github.com/r0mymendez/R/blob/master/DatosDeMiercoles/20190713). Packages: TIdyverse, ggpubr y ggridges 
 🎮👌😁
 
+9. [Human Freedom Index](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190819). Packages: Tidyverse, ggpubr, ggrepe, extrafont, countrycode y viridis 🌏🌏🌏🚺
+
+
 #### SWDchallenge 
 1. [MARVEL: radial data viz](https://github.com/r0mymendez/R/blob/master/SWDCHALLENGE/20190705-MARVEL/readme.md). Packages: TIdyverse, extrafont, ggpubr y ggridges 👊💪👊
 
