@@ -29,6 +29,8 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 
 11. [Nuclear Explosions](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20190822-Nuclear%20Explosions) Packages: Tidyverse, ggrepel, maps, emojifont y ggthemes 🌏🌏🌏
 
+12. [New Zealand Bird of the Year]() Packages: Tidyverse, ggrepel, spData y emojifont  🕊🌏🕊
+
 #### Datos de Miercoles
 1. [Datos de Miercoles: Mundiales 1930-2018](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190410). Packages: Tidyverse, emojifont y background image. ⚽🏆🙋
 
@@ -50,7 +52,6 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 🎮👌😁
 
 9. [Human Freedom Index](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190819). Packages: Tidyverse, ggpubr, ggrepe, extrafont, countrycode y viridis 🌏🌏🌏🚺
-
 
 #### SWDchallenge 
 1. [MARVEL: radial data viz](https://github.com/r0mymendez/R/blob/master/SWDCHALLENGE/20190705-MARVEL/readme.md). Packages: TIdyverse, extrafont, ggpubr y ggridges 👊💪👊
