@@ -57,4 +57,4 @@ Bienvenido a mi repositorio ❤️ con algunas de mis presentaciones en clases y
 1. [MARVEL: radial data viz](https://github.com/r0mymendez/R/blob/master/SWDCHALLENGE/20190705-MARVEL/readme.md). Packages: TIdyverse, extrafont, ggpubr y ggridges 👊💪👊
 
 #### Other DataViZ
-1. [WIMLDS: Women in Machine Learning and Data Science] (https://github.com/r0mymendez/R/tree/master/DataViz/Chapters%20-%20WiMLDS%20Meetups). Packages: rvest,tidyverse,grid,gridExtra,ggpubr,ggrepel,extrafont 👭💜😍
+1. [WIMLDS: Women in Machine Learning and Data Science](https://github.com/r0mymendez/R/tree/master/DataViz/Chapters%20-%20WiMLDS%20Meetups). Packages: rvest,tidyverse,grid,gridExtra,ggpubr,ggrepel,extrafont 👭💜😍
