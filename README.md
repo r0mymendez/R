@@ -1,4 +1,4 @@
-# R
+# DATAVIZ R
 
 Welcome to my ❤️ repository with some of my presentations in classes and workshops.
 
@@ -55,6 +55,8 @@ Welcome to my ❤️ repository with some of my presentations in classes and wor
 9. [Human Freedom Index](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190819). Packages: Tidyverse, ggpubr, ggrepe, extrafont, countrycode y viridis 🌏🌏🌏🚺
 
 10. [IMDB: Ranking de películas](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20200221). Packages: Tidyverse, ggpubr, ggrepe y extrafont. 🎬🎭📽
+
+11. [TV shows on Netflix, Prime Video, Hulu and Disney+](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20200608). Packages: Tidyverse, ggpubr, ggrepe y showextra. 🎬🎭📽
 
 #### SWDchallenge 
 1. [MARVEL: radial data viz](https://github.com/r0mymendez/R/blob/master/SWDCHALLENGE/20190705-MARVEL/readme.md). Packages: TIdyverse, extrafont, ggpubr y ggridges 👊💪👊
