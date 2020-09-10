@@ -5,5 +5,5 @@ The data this week comes from the friends R package for the Friends transcripts 
 **Data Sources:** [link](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-08/readme.md)
 
 <center>
-![](https://github.com/r0mymendez/R/blob/master/TidyTuesday/20200910-friends/plot.png)
+!()[https://github.com/r0mymendez/R/blob/master/TidyTuesday/20200910-friends/plot.png]
 </center>
