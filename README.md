@@ -32,6 +32,8 @@ Welcome to my ❤️ repository with some of my presentations in classes and wor
 
 12. [New Zealand Bird of the Year](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20191124-New%20Zealand%20Bird%20of%20the%20Year) Packages: Tidyverse, ggrepel, spData y emojifont  🕊🌏🕊
 
+13.[Friends network Graph](https://github.com/r0mymendez/R/tree/master/TidyTuesday/20200910-friends) Packages: Tidyverse, extrafont,geomnet y ggnetwork 📺👫🏻💕
+
 #### Datos de Miercoles
 1. [Datos de Miercoles: Mundiales 1930-2018](https://github.com/r0mymendez/R/tree/master/DatosDeMiercoles/20190410). Packages: Tidyverse, emojifont y background image. ⚽🏆🙋
 
